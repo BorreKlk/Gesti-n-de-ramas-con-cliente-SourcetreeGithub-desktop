@@ -2,8 +2,11 @@ V0.1
 cambio [Hotfix] 1
 cambio [Develop] 1
 cambio [Develop] 2
-cambio [Feature1] 1
-cambio [Feature1] 2
+<<<<<<< HEAD
 cambio [Develop] 3
 cambio [Develop] 4
+=======
+cambio [Feature1] 1
+cambio [Feature1] 2
+>>>>>>> Feature1
 
