@@ -8,9 +8,12 @@ cambio [Feature1] 1
 cambio [Feature1] 2
 cambio [Develop] 3
 cambio [Develop] 4
-cambio [Release] 1
+<<<<<<< HEAD
 cambio [Develop] 5
+=======
+cambio [Release] 1
 cambio [Release] 2
 
 
+>>>>>>> Release
 
