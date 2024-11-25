@@ -1,12 +1,13 @@
 V0.1
 cambio [Hotfix] 1
+Cambio [Main] 2
+Cambio [Main] 3
 cambio [Develop] 1
 cambio [Develop] 2
 cambio [Develop] 3
 cambio [Develop] 4
 cambio [Release] 1
 cambio [Release] 2
-
 
 
 
